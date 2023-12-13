@@ -1,1 +1,8 @@
 PHPWebdriver
+
+PASO A PASO:
+1. Inicializar XAMPP (Apache)
+3. Clonar el repositorio en C:/xampp/htdocs
+5. Descargar "Selenium Standalone Server" e Inicializarlo
+  https://www.selenium.dev/downloads/
+6. Ejecutar el test
